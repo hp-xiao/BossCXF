@@ -22,12 +22,6 @@ public class HelloDao extends BaseDao{
 	}
 	
 	
-	public void payMoney(double money) {
-		Connection conn = this.openConnection();
-		
-		Log.logger.info("HelloDao付款：" + money);
-		
-		this.closeConnection(conn);
-	}
+
     
 }
