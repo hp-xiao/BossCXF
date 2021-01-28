@@ -40,6 +40,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>BossWS</finalName>
+		<finalName>BossWS222</finalName>
 	</build>
 </project>
